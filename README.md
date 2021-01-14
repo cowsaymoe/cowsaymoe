@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/bufferstack?style=social)
+<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=cowsaymoe.cowsaymoe)
 <!--
 **cowsaymoe/cowsaymoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
