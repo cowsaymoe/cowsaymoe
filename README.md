@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bufferstack?style=social)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/bufferstack?style=social)](https://twitter.com/bufferstack)
 <br/>
 ![](https://visitor-badge.glitch.me/badge?page_id=cowsaymoe.cowsaymoe)
 <!--
